@@ -10,6 +10,7 @@ Used by:
 ## Installation
 
     pip3 install TelegramBotAPI
+    update pip version 
 
 ## Usage
 ### Requests Client
